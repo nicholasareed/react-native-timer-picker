@@ -1,6 +1,8 @@
 node_modules
 .expo
 dist-ignore
+src
+tests
 *.tgz
 .yarn/*
 !.yarn/releases
