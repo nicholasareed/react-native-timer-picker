@@ -26,8 +26,7 @@
         "build": "bob build",
         "clean": "rm yarn.lock && rm -rf ./node_modules && yarn install",
         "lint": "eslint --ext .ts,.tsx .",
-        "lint:fix": "eslint --ext .ts,.tsx . --fix",
-        "prepare": "yarn build"
+        "lint:fix": "eslint --ext .ts,.tsx . --fix"
     },
     "homepage": "https://github.com/troberts-28/react-native-timer-picker",
     "bugs": {
